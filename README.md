@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre mí
 
-Soy Yulder Felipe Orozco Londoño, estudiante de **Ingeniería de Sistemas** interesado en el desarrollo de software, análisis de datos, automatización de procesos e inteligencia artificial.  
+Soy **Yulder Felipe Orozco Londoño**, estudiante de **Ingeniería de Sistemas** interesado en el desarrollo de software, análisis de datos, automatización de procesos e inteligencia artificial.  
 Me motiva aprender tecnologías nuevas, resolver problemas reales y trabajar en equipo.
 
 ---
